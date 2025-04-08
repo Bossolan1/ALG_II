@@ -1,0 +1,1 @@
+ao copilar os arquivos, utilize a flag -lm no gcc, grato
