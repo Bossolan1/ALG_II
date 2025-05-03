@@ -18,7 +18,7 @@ int main()
     int nun_doc = 0, valor_doc, data_emisao = 0, data_vencimento = 0;
     printf("Qual o codigo do cliente?\n");
     scanf("%d", &cod_cliente);
-    
+    //salve salve 
     
     fclose(cliente);
     fclose(recibo);    
